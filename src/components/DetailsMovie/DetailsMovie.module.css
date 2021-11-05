@@ -1,0 +1,41 @@
+.aboutCard {
+  border-bottom: 1 px solid var(--primaryColor);
+  background-position: right -200 px top;
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: flex;
+  color: antiquewhite;
+}
+.test {
+  display: flex;
+}
+.textBox {
+  margin-left: 20px;
+  text-align: left;
+}
+.titleMovie {
+  padding: 20px 0px 50px 30px;
+  font-size: 38px;
+  font-weight: 900;
+}
+.poster {
+  width: 400px;
+  padding-left: 50px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+.aboutList {
+  display: flex;
+  padding-bottom: 10 px;
+}
+.aboutTitle {
+  font-size: 28px;
+  padding-right: 20px;
+}
+
+.aboutTextOverview,
+.aboutText {
+  font-size: 20px;
+  padding-right: 10px;
+  line-height: 1.5;
+}

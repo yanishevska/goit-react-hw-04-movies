@@ -1,0 +1,19 @@
+.itemReview {
+  border: 1px solid #3f51b5;
+  border-radius: 6px;
+  background-color: #3f51b5;
+  padding-bottom: -22px;
+  margin-bottom: 10px;
+}
+.itemReviewAuth {
+  color: rgb(255, 255, 255);
+  font-size: 24px;
+  font-style: uppercase;
+}
+.itemReviewContent {
+  margin-top: 0px;
+  font-size: 16px;
+  background-color: #fff;
+  padding-top: 20px;
+  padding-bottom: 10px;
+}

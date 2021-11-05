@@ -1,0 +1,8 @@
+.navigator {
+  background-color: rgb(0, 0, 255);
+  padding: 15px;
+  position: sticky;
+  top: 0;
+  left: 0;
+  z-index: 1222;
+}
